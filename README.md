@@ -1,7 +1,7 @@
 
 📕 Estudante do 3° semestre do curso de Ciência da Computação na PUCRS
 
-<div align="center">
+<div>
   <a href="https://github.com/carolina-kowaluk">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolina-kowaluk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-kowaluk&layout=compact&langs_count=7&theme=dark"/>
