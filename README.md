@@ -3,6 +3,11 @@
 - 📕 I’m studying at PUCRS in the 3rd semester
 - 📧 How to reach me: carolina.kowaluk@gmail.com
 
+<div align="center">
+  <a href="https://github.com/carolina-kowaluk">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolina-kowaluk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-kowaluk&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Carol-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
