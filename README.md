@@ -1,7 +1,5 @@
-### Hi I'am Carolina Kowaluk
 
-- 📕 I’m studying at PUCRS in the 3rd semester
-- 📧 How to reach me: carolina.kowaluk@gmail.com
+📕 Estudante do 3° semestre do curso de Ciência da Computação na PUCRS
 
 <div align="center">
   <a href="https://github.com/carolina-kowaluk">
