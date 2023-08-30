@@ -17,8 +17,3 @@
 <a href="https://www.linkedin.com/in/carolina-kowaluk-26670824a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discordapp.com/users/carolina_kowaluk#0343" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
 
-<div>
-<a href="https://github.com/carolina-kowaluk">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-kowaluk&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolina-kowaluk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
